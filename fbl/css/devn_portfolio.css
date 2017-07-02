@@ -1,0 +1,151 @@
+.devn-portfolio-filters{
+	margin: 0 auto 50px;
+	text-align: center;
+	font-size: 12px;
+	color: #cacaca;
+}
+.devn-portfolio-filters .devn-portfolio-filter-item {
+	color: #727272;
+	cursor: pointer;
+	font: 400 13px " Raleway ", sans-serif;
+	padding: 9px 10px;
+	transition: all .3s ease-in-out;
+	position: relative;
+	overflow: visible;
+	margin: 0px 0 0;
+	border: medium none;
+	background-color: transparent;
+	text-transform: capitalize;
+}
+.devn-portfolio-filters .devn-portfolio-filter-item-active {
+	color: #fff!important;
+	background-color: #13afeb;
+	border-radius: 4px;
+}
+.devn-portfolio-main {
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+	min-height: 150px;
+	width: 100%;
+	visibility: visible!important;
+}
+.devn-portfolio-main ul{
+	padding: 0px;
+}
+.devn-portfolio-main .devn-portfolio-item{
+	float: left;
+	width: 33.3333%;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.devn-portfolio-main.two .devn-portfolio-item{
+	width: 50%;
+}
+.devn-portfolio-main.four .devn-portfolio-item{
+	width: 25%;
+}
+.devn-portfolio-main .devn-portfolio-item .devn-portfolio-caption-wrap{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.8);
+	color: #fff;
+	opacity: 0;
+	transition: all 500ms ease-out 200ms;
+	-webkit-transition: all 500ms ease-out 200ms;
+}
+.devn-portfolio-main .devn-portfolio-item .devn-portfolio-caption-wrap:hover{
+	opacity: 1;
+	
+}
+.devn-portfolio-item .devn-portfolio-image{
+	width: 100%;
+}
+.devn-portfolio-item .devn-portfolio-image img{
+	float: left;
+	transition: all 1000ms ease-in-out 0ms;
+	-webkit-transition: all 1000ms ease-in-out 0ms;
+}
+.devn-portfolio-item:hover .devn-portfolio-image img{
+	transform: scale(1.8) rotate(45deg);
+	-webkit-transform: scale(1.8) rotate(30deg);
+}
+.devn-portfolio-item .devn-portfolio-caption{
+	margin: 30px;
+	display: inline-block;
+	opacity: 0;
+	transform:  scale(0.01) rotate(0deg);
+	-webkit-transform:  scale(0.01) rotate(0deg);
+	transition: all 300ms ease-out 500ms;
+	-webkit-transition: all 300ms ease-out 500ms;
+}
+.devn-portfolio-item:hover .devn-portfolio-caption{
+	opacity: 1;
+	transform:  scale(1) rotate(0deg);
+	-webkit-transform:  scale(1) rotate(0deg);
+}
+.devn-portfolio-item-wrapper{
+	float: left;
+}
+.devn-portfolio-caption-title{
+	font-weight: bold;
+	font-size: 15px;
+}
+.devn-portfolio-caption-desc p{
+	font-style: italic;
+	color: #aaa;
+}
+.devn-portfolio-item .linkfr{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	border: 1px solid rgba(255,255,255,0.3);
+	border-radius: 0px;
+	color: #eee;
+	opacity: 0.3;
+	transition: all 300ms ease-out 300ms;
+	-webkit-transition: all 300ms ease-out 300ms;
+	margin-top: -500px;
+}	
+.linkfr.view-large{
+	margin-left: -50px;
+}
+.linkfr.more-detail{
+	margin-left: 5px;
+}
+.devn-portfolio-item .linkfr:hover{
+	background: #13afeb;
+}
+.devn-portfolio-item:hover .linkfr{
+	color: #fff;
+	opacity: 1;
+	border: 1px solid rgba(255,255,255,0.5);
+	-webkit-animation: re3move 0.7s ease-out 0.4s alternate;
+	animation: re3move 0.7s ease-out 0.4s alternate;
+	-webkit-backface-visibility: hidden;
+	margin-top: -20px;
+}
+
+
+@keyframes re3move
+{
+	0% {transform: perspective( 500px ) rotateY( 0deg );margin-top: -500px;}
+	25% {transform: perspective( 500px ) rotateY( 50deg );margin-top: 30px;}
+	50% {transform: perspective( 500px ) rotateY( -90deg );margin-top:-30px}
+	75% {transform: perspective( 500px ) rotateY( 30deg );margin-top: -10px;}
+	100% {transform: perspective( 500px ) rotateY( 0deg );margin-top: -20px;}
+}
+
+@-webkit-keyframes re3move
+{
+	0% {-webkit-transform: perspective( 500px ) rotateY( 0deg );margin-top: -200px;}
+	25% {-webkit-transform: perspective( 500px ) rotateY( 50deg );margin-top: 30px;}
+	50% {-webkit-transform: perspective( 500px ) rotateY( -90deg );margin-top:-30px}
+	75% {-webkit-transform: perspective( 500px ) rotateY( 30deg );margin-top: -10px;}
+	100% {-webkit-transform: perspective( 500px ) rotateY( 0deg );margin-top: -20px;}
+}	
+	

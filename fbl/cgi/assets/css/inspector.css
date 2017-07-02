@@ -1,0 +1,28 @@
+body{
+	display: inline;
+	height: 100%;
+	margin: 0;
+	min-height: 100%;
+	overflow: hidden;
+	padding: 0;
+}
+body #wpcontent .wrap{
+	height:100%;
+}
+body #wpbody-content,body #wpwrap,body #wpbody{
+    display: inline-block;
+    float: none;
+    height: 100%;
+	width:100%;
+}
+.TB_window_shortcode{
+	margin-top: 0% !important;
+	height: 98% !important;
+	top: 1% !important;
+}
+#list-inactive-position{
+	display: block !important;
+}
+#wpcontent{
+	margin: 0px;
+}

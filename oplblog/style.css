@@ -1,0 +1,125 @@
+/*
+Theme Name: Opl Blog Theme
+Theme URI: https://oployeelabs.com
+Author: the WordPress team
+Author URI: #
+Description: We designed it using a mobile-first approach and Its a simple and cool Blog site. The visitors easilt arrive by smartphone, tablet, laptop, or desktop computer..
+Version: 1.0
+License: #
+License URI: #
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+#projects-grid a{
+	
+	margin-left:-1px!important;
+	
+}
+
+.post-content p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+	font-size: 18px;
+    line-height: 1.9;
+}
+
+ul.opl_menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.opl_menu li {
+    display: inline-block;
+    font-family: "Roboto Slab",Museo,MuseoSlab500,Helvetica,Arial,sans-serif;
+}
+ul.opl_menu li.active a {
+    background: #f0f7f7;
+    color: #424A4F;
+}
+ul.opl_menu li a {
+    display: block;
+    font-size: 18px;
+    padding: 0 20px;
+    line-height: 56px;
+}
+
+.footer_widget{
+    width:24%;
+    float:left;
+}
+.footer_widget ul{
+    padding:0px;
+}
+.footer_widget ul li{
+    list-style:none;
+}
+
+.social-buttons.small a {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 15px;
+    color: #fff;
+}
+
+#search_form input[type=text] {
+   
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#search_form input[type="text"],#search_form input[type="search"]{
+  color: #232323;
+}
+.subnav-items {
+    float: left;
+}
+ul.search-box {
+    float: right;
+}
+
+
+.search-submit{
+                position:relative;
+                padding:10px 15px;
+                border-radius: 4px;
+                box-sizing: border-box;
+                left:0px;
+                border:2px solid #ffffff;
+                background-color:#4dbdeb;
+                color:#fafafa;
+                font-size:16px;
+}
+.search-submit:hover  {
+                background-color:#fafafa;
+                color:#232323;
+}
+.search-terms {
+background-color:yellow;
+color:blue;
+}
+
+#intercom-container .intercom-launcher{
+	display:none !important;
+}
+#commentform label{
+	width: 100px;
+}
+.width-100{
+	width:100%;
+}
+.text-center{
+	text-align:center;
+}

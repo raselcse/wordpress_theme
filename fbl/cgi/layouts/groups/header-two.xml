@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Header two</title>
+	<type>groups</type>
+	<id>header-two</id>
+	<blockHeight>70</blockHeight>
+	<height>700</height>
+	<private>no</private>
+	<update>Fri, 29 Aug 14 09:35:34 +0000</update>
+	<css><![CDATA[.blkheader-twodevn0{min-height:70px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups></groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"devn_customize__grp_header-two_1409304933","customize":"","custLabel":"Menu","cfg":{"className":"","fullWidth":"0","customCss":"","status":"publish"},"height":70,"width":940,"top":0,"left":20,"bottom":70,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"devn_customize__grp_header-two_1409304933","customize":"","custLabel":"Menu","cfg":{"className":"","fullWidth":"0","customCss":"","status":"publish"},"height":70,"width":940,"top":0,"left":20,"bottom":70,"right":960}]}]]]]></real>
+	<html><![CDATA[</div>
+<div class="devn-group group-header-two " id=""><div class="container-fluid limit-width">	<div class="rowlevelone row-fluid row wrpestdevn  row-devn_customize__grp_header-two_1409304933">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize  blkheader-twodevn0" id="devn_customize__grp_header-two_1409304933">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_header-two_1409304933" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div>
+</div>
+<div class="container-fluid limit-width">]]></html>
+</layout>

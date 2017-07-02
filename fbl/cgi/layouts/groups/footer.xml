@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Footer</title>
+	<type>groups</type>
+	<id>footer</id>
+	<blockHeight>360</blockHeight>
+	<height>700</height>
+	<private>no</private>
+	<update>Fri, 19 Sep 14 03:26:52 +0000</update>
+	<css><![CDATA[.blkfooterdevn0{min-height:280px;width:100% !important;margin-left:0% !important;}.blkfooterdevn1{min-height:280px;width:100% !important;margin-left:0% !important;}.blkfooterdevn2{min-height:280px;width:100% !important;margin-left:0% !important;}.blkfooterdevn3{min-height:280px;width:100% !important;margin-left:0% !important;}.blkfooterdevn4{min-height:50px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups></groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[footer-group]]></groupid>
+	<groupclass><![CDATA[footer1]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"twitter","cfg":{"className":"twitter animated eff-bounceIn  delay-400ms","fullWidth":"0","customCss":""},"height":280,"width":220,"top":0,"left":500,"bottom":280,"right":720},{"id":1,"sid":"devn_customize__grp_footer_1408010869","customize":"","custLabel":"About Hoxa","cfg":{"className":"animated eff-fadeInUp","fullWidth":"0","css":"","customCss":""},"height":280,"width":220,"top":0,"left":20,"bottom":280,"right":240},{"id":2,"sid":"devn_customize__grp_footer_1410575742","customize":"","custLabel":"Useful Links","cfg":{"className":"animated eff-fadeInUp delay-200ms","fullWidth":"0","css":"","customCss":"","status":"publish"},"height":280,"width":220,"top":0,"left":260,"bottom":280,"right":480},{"id":3,"sid":"footer-flickr","cfg":{"className":"footer-flickr animated eff-bounceIn  delay-600ms","fullWidth":"0","status":"publish","customCss":""},"height":280,"width":220,"top":0,"left":740,"bottom":280,"right":960},{"id":4,"sid":"devn_customize__grp_footer_1408069386","customize":"","custLabel":"Footer Copyright","cfg":{"className":" animated eff-bounceIn","fullWidth":"0","css":"","customCss":""},"height":50,"width":940,"top":310,"left":20,"bottom":360,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":240,"left":0,"column":[{"id":1,"sid":"devn_customize__grp_footer_1408010869","customize":"","custLabel":"About Hoxa","cfg":{"className":"animated eff-fadeInUp","fullWidth":"0","css":"","customCss":""},"height":280,"width":220,"top":0,"left":20,"bottom":280,"right":240}]},{"width":240,"left":240,"column":[{"id":2,"sid":"devn_customize__grp_footer_1410575742","customize":"","custLabel":"Useful Links","cfg":{"className":"animated eff-fadeInUp delay-200ms","fullWidth":"0","css":"","customCss":"","status":"publish"},"height":280,"width":220,"top":0,"left":260,"bottom":280,"right":480}]},{"width":240,"left":480,"column":[{"id":0,"sid":"twitter","cfg":{"className":"twitter animated eff-bounceIn  delay-400ms","fullWidth":"0","customCss":""},"height":280,"width":220,"top":0,"left":500,"bottom":280,"right":720}]},{"width":240,"left":720,"column":[{"id":3,"sid":"footer-flickr","cfg":{"className":"footer-flickr animated eff-bounceIn  delay-600ms","fullWidth":"0","status":"publish","customCss":""},"height":280,"width":220,"top":0,"left":740,"bottom":280,"right":960}]}],[{"width":960,"left":0,"column":[{"id":4,"sid":"devn_customize__grp_footer_1408069386","customize":"","custLabel":"Footer Copyright","cfg":{"className":" animated eff-bounceIn","fullWidth":"0","css":"","customCss":""},"height":50,"width":940,"top":310,"left":20,"bottom":360,"right":960}]}]]]]></real>
+	<html><![CDATA[</div>
+<div class="devn-group group-footer footer1" id="footer-group"><div class="container-fluid limit-width">	<div class="rowlevelone row-fluid row wrpestdevn  row-devn_customize__grp_footer_1408010869">		<div class="spanlevelone col-md-3">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize animated eff-fadeInUp blkfooterdevn0" id="devn_customize__grp_footer_1408010869">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_footer_1408010869" ))) ); ?>				</div>
+			</div>
+				</div>		<div class="spanlevelone col-md-3">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize animated eff-fadeInUp delay-200ms blkfooterdevn1" id="devn_customize__grp_footer_1410575742">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_footer_1410575742" ))) ); ?>				</div>
+			</div>
+				</div>		<div class="spanlevelone col-md-3">				<div class="widgetdevn twitter animated eff-bounceIn  delay-400ms blkfooterdevn2" id="sidebar-twitter">
+				
+					<?php dynamic_sidebar( "twitter" ); ?>					
+				</div>
+					</div>		<div class="spanlevelone col-md-3">				<div class="widgetdevn footer-flickr animated eff-bounceIn  delay-600ms blkfooterdevn3" id="sidebar-footer-flickr">
+				
+					<?php dynamic_sidebar( "footer-flickr" ); ?>					
+				</div>
+					</div>	</div>	<div class="rowlevelone row-fluid row wrpestdevn  row-devn_customize__grp_footer_1408069386">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize  animated eff-bounceIn blkfooterdevn4" id="devn_customize__grp_footer_1408069386">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_footer_1408069386" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div>
+</div>
+<div class="container-fluid limit-width">]]></html>
+</layout>

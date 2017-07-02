@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Header</title>
+	<type>groups</type>
+	<id>header</id>
+	<blockHeight>140</blockHeight>
+	<height>700</height>
+	<private>no</private>
+	<update>Fri, 29 Aug 14 09:35:47 +0000</update>
+	<css><![CDATA[.blkheaderdevn0{min-height:60px;width:100% !important;margin-left:0% !important;}.blkheaderdevn1{min-height:70px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups></groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[trueHeader]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"devn_customize__grp_header_1409304946","customize":"","custLabel":"Logo n Socials","cfg":{"className":"top_nav animated fadeIn logoarea","fullWidth":"2","css":"","customCss":"","status":"publish"},"height":60,"width":940,"top":0,"left":20,"bottom":60,"right":960},{"id":1,"sid":"devn_customize__grp_header_1407127674","customize":"","custLabel":"Main Menu","cfg":{"className":"menu_main animated fadeIn","fullWidth":"2","css":"","customCss":""},"height":70,"width":940,"top":70,"left":20,"bottom":140,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"devn_customize__grp_header_1409304946","customize":"","custLabel":"Logo n Socials","cfg":{"className":"top_nav animated fadeIn logoarea","fullWidth":"2","css":"","customCss":"","status":"publish"},"height":60,"width":940,"top":0,"left":20,"bottom":60,"right":960}]}],[{"width":960,"left":0,"column":[{"id":1,"sid":"devn_customize__grp_header_1407127674","customize":"","custLabel":"Main Menu","cfg":{"className":"menu_main animated fadeIn","fullWidth":"2","css":"","customCss":""},"height":70,"width":940,"top":70,"left":20,"bottom":140,"right":960}]}]]]]></real>
+	<html><![CDATA[</div>
+<div class="devn-group group-header " id="trueHeader"><div class="container-fluid full-width full-width-devn_customize__grp_header_1409304946">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize__grp_header_1409304946">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize top_nav animated fadeIn logoarea blkheaderdevn0" id="devn_customize__grp_header_1409304946">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_header_1409304946" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid full-width full-width-devn_customize__grp_header_1407127674">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize__grp_header_1407127674">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize menu_main animated fadeIn blkheaderdevn1" id="devn_customize__grp_header_1407127674">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_header_1407127674" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div>
+</div>
+<div class="container-fluid limit-width">]]></html>
+</layout>

@@ -1,0 +1,51 @@
+/*
+*	(c) www.devn.co
+*/
+
+
+@import url("font-awesome.min.css");
+.media-modal{
+	z-index: 10000000;
+}
+.float-right{
+	float:right;
+}
+.float-left{
+	float:left;
+}
+.theme.active .theme-actions,.active-theme .customize{
+	display: none !important;
+}	
+.help-tip{
+	background: #d0d0d0;
+	border-radius: 15px;
+	width: 15px;
+	height: 15px;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 1px 1px #ccc;
+	position:relative;
+	cursor: help;
+	margin-top:8px;
+}
+.help-note{
+	position: absolute;
+	top: 17px;
+	right: 0px;
+	background:rgba(0,0,0,0.6);
+	min-width:180px;
+	color:#fff;
+	border:1px solid #ddd;
+	padding:10px;
+	display: none;
+	z-index:1;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: 1px 1px 2px 0 #eee;
+	text-align:left;
+}
+.help-tip:hover .help-note{
+	display:block;
+}
+.help-tip:hover{
+	background: #bbb;
+}

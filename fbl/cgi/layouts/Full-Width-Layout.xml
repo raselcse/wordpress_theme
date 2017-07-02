@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Full Width Layout</title>
+	<type>Custom</type>
+	<id>Full-Width-Layout</id>
+	<blockHeight>1150</blockHeight>
+	<height>1334</height>
+	<private>no</private>
+	<update>Mon, 11 Aug 14 10:15:08 +0000</update>
+	<css><![CDATA[.sysdevn0{min-height:110px;width:100% !important;margin-left:0% !important;}.sysdevn1{min-height:500px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups>groups[DS]header,groups[DS]footer,</groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":180,"width":940,"top":0,"left":20,"bottom":180,"right":960},{"id":1,"sid":"breadcrumbs","cfg":{"className":"breadcrumbs page_title3","fullWidth":"2","customCss":""},"height":110,"width":940,"top":200,"left":20,"bottom":310,"right":960},{"id":2,"sid":"content","cfg":{"className":"content sidebardevn","fullWidth":"2","customCss":"","showBlog":1},"height":500,"width":940,"top":330,"left":20,"bottom":830,"right":960},{"id":3,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0},"height":300,"width":940,"top":850,"left":20,"bottom":1150,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":180,"width":940,"top":0,"left":20,"bottom":180,"right":960}]}],[{"width":960,"left":0,"column":[{"id":1,"sid":"breadcrumbs","cfg":{"className":"breadcrumbs page_title3","fullWidth":"2","customCss":""},"height":110,"width":940,"top":200,"left":20,"bottom":310,"right":960}]}],[{"width":960,"left":0,"column":[{"id":2,"sid":"content","cfg":{"className":"content sidebardevn","fullWidth":"2","customCss":"","showBlog":1},"height":500,"width":940,"top":330,"left":20,"bottom":830,"right":960}]}],[{"width":960,"left":0,"column":[{"id":3,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0},"height":300,"width":940,"top":850,"left":20,"bottom":1150,"right":960}]}]]]]></real>
+	<html><![CDATA[<div class="container-fluid limit-width container-groups-header"><?php devn::sidebarGroup('groups[DS]header'); ?></div><div class="container-fluid full-width full-width-breadcrumbs">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-breadcrumbs">		<div class="spanlevelone col-md-12">				<div class="widgetdevn breadcrumbs page_title3 sysdevn0" id="sidebar-breadcrumbs">
+				
+					<?php dynamic_sidebar( "breadcrumbs" ); ?>					
+				</div>
+					</div>	</div></div><div class="container-fluid full-width full-width-content">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-content">		<div class="spanlevelone col-md-12">				<div class="widgetdevn content sidebardevn sysdevn1" id="sidebar-content">
+				
+					<?php dynamic_sidebar( "content" ); ?>					
+				</div>
+					</div>	</div></div><div class="container-fluid limit-width"><?php devn::sidebarGroup('groups[DS]footer'); ?></div>]]></html>
+</layout>

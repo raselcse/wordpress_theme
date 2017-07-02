@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Home</title>
+	<type>page</type>
+	<id>67</id>
+	<blockHeight>830</blockHeight>
+	<height>1334</height>
+	<private>yes</private>
+	<update>Wed, 20 Aug 14 16:54:59 +0000</update>
+	<css><![CDATA[.sysdevn0{min-height:310px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups>groups[DS]header,groups[DS]footer,</groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":190,"width":940,"top":0,"left":20,"bottom":190,"right":960},{"id":1,"sid":"devn_customize_page-67_1407398739","customize":"","custLabel":"Thumbnails Layout","cfg":{"className":"features_sec20","fullWidth":"0","customCss":""},"height":310,"width":940,"top":210,"left":20,"bottom":520,"right":960},{"id":2,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0,"css":""},"height":290,"width":940,"top":540,"left":20,"bottom":830,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":190,"width":940,"top":0,"left":20,"bottom":190,"right":960}]}],[{"width":960,"left":0,"column":[{"id":1,"sid":"devn_customize_page-67_1407398739","customize":"","custLabel":"Thumbnails Layout","cfg":{"className":"features_sec20","fullWidth":"0","customCss":""},"height":310,"width":940,"top":210,"left":20,"bottom":520,"right":960}]}],[{"width":960,"left":0,"column":[{"id":2,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0,"css":""},"height":290,"width":940,"top":540,"left":20,"bottom":830,"right":960}]}]]]]></real>
+	<html><![CDATA[<div class="container-fluid limit-width container-groups-header"><?php devn::sidebarGroup('groups[DS]header'); ?>	<div class="rowlevelone row-fluid row wrpestdevn  row-devn_customize_page-67_1407398739">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize features_sec20 sysdevn0" id="devn_customize_page-67_1407398739">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-67_1407398739" ))) ); ?>				</div>
+			</div>
+				</div>	</div><?php devn::sidebarGroup('groups[DS]footer'); ?></div>]]></html>
+</layout>

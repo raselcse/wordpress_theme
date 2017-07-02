@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Portfolio layout</title>
+	<type>page</type>
+	<id>640</id>
+	<blockHeight>1430</blockHeight>
+	<height>1533</height>
+	<private>yes</private>
+	<update>Mon, 18 Aug 14 16:02:06 +0000</update>
+	<css><![CDATA[.sysdevn0{min-height:340px;width:100% !important;margin-left:0% !important;}.sysdevn1{min-height:150px;width:100% !important;margin-left:0% !important;}.sysdevn2{min-height:100px;width:100% !important;margin-left:0% !important;}.sysdevn3{min-height:100px;width:100% !important;margin-left:0% !important;}.sysdevn4{min-height:100px;width:100% !important;margin-left:0% !important;}.sysdevn5{min-height:100px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups>groups[DS]header,groups[DS]footer,</groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":210,"width":940,"top":0,"left":20,"bottom":210,"right":960},{"id":1,"sid":"devn_customize_page-640_1406964831","customize":"","custLabel":"Main Slider","cfg":{"className":"","fullWidth":"2","customCss":""},"height":340,"width":940,"top":220,"left":20,"bottom":560,"right":960},{"id":2,"sid":"devn_customize_page-640_1406966590","customize":"","custLabel":"Featured Works","cfg":{"className":"","fullWidth":"0","customCss":"","status":"publish"},"height":150,"width":940,"top":580,"left":20,"bottom":730,"right":960},{"id":3,"sid":"devn_customize_page-640_1406969045","customize":"","custLabel":"Fresh works","cfg":{"className":"fresh_works3","fullWidth":"2","customCss":""},"height":100,"width":940,"top":740,"left":20,"bottom":840,"right":960},{"id":4,"sid":"devn_customize_page-640_1406969183","customize":"","custLabel":"What We Offer","cfg":{"className":"feature_section15","fullWidth":"2","customCss":""},"height":100,"width":940,"top":850,"left":20,"bottom":950,"right":960},{"id":5,"sid":"devn_customize_page-640_1406969274","customize":"","custLabel":"People Say","cfg":{"className":"feature_section19","fullWidth":"2","customCss":""},"height":100,"width":940,"top":960,"left":20,"bottom":1060,"right":960},{"id":6,"sid":"devn_customize_page-640_1406969319","customize":"","custLabel":"We love Funfact","cfg":{"className":"feature_section21","fullWidth":"2","customCss":""},"height":100,"width":940,"top":1070,"left":20,"bottom":1170,"right":960},{"id":7,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0,"css":""},"height":250,"width":940,"top":1180,"left":20,"bottom":1430,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":210,"width":940,"top":0,"left":20,"bottom":210,"right":960}]}],[{"width":960,"left":0,"column":[{"id":1,"sid":"devn_customize_page-640_1406964831","customize":"","custLabel":"Main Slider","cfg":{"className":"","fullWidth":"2","customCss":""},"height":340,"width":940,"top":220,"left":20,"bottom":560,"right":960}]}],[{"width":960,"left":0,"column":[{"id":2,"sid":"devn_customize_page-640_1406966590","customize":"","custLabel":"Featured Works","cfg":{"className":"","fullWidth":"0","customCss":"","status":"publish"},"height":150,"width":940,"top":580,"left":20,"bottom":730,"right":960}]}],[{"width":960,"left":0,"column":[{"id":3,"sid":"devn_customize_page-640_1406969045","customize":"","custLabel":"Fresh works","cfg":{"className":"fresh_works3","fullWidth":"2","customCss":""},"height":100,"width":940,"top":740,"left":20,"bottom":840,"right":960}]}],[{"width":960,"left":0,"column":[{"id":4,"sid":"devn_customize_page-640_1406969183","customize":"","custLabel":"What We Offer","cfg":{"className":"feature_section15","fullWidth":"2","customCss":""},"height":100,"width":940,"top":850,"left":20,"bottom":950,"right":960}]}],[{"width":960,"left":0,"column":[{"id":5,"sid":"devn_customize_page-640_1406969274","customize":"","custLabel":"People Say","cfg":{"className":"feature_section19","fullWidth":"2","customCss":""},"height":100,"width":940,"top":960,"left":20,"bottom":1060,"right":960}]}],[{"width":960,"left":0,"column":[{"id":6,"sid":"devn_customize_page-640_1406969319","customize":"","custLabel":"We love Funfact","cfg":{"className":"feature_section21","fullWidth":"2","customCss":""},"height":100,"width":940,"top":1070,"left":20,"bottom":1170,"right":960}]}],[{"width":960,"left":0,"column":[{"id":7,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0,"css":""},"height":250,"width":940,"top":1180,"left":20,"bottom":1430,"right":960}]}]]]]></real>
+	<html><![CDATA[<div class="container-fluid limit-width container-groups-header"><?php devn::sidebarGroup('groups[DS]header'); ?></div><div class="container-fluid full-width full-width-devn_customize_page-640_1406964831">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize_page-640_1406964831">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize  sysdevn0" id="devn_customize_page-640_1406964831">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-640_1406964831" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid limit-width">	<div class="rowlevelone row-fluid row wrpestdevn  row-devn_customize_page-640_1406966590">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize  sysdevn1" id="devn_customize_page-640_1406966590">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-640_1406966590" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid full-width full-width-devn_customize_page-640_1406969045">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize_page-640_1406969045">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize fresh_works3 sysdevn2" id="devn_customize_page-640_1406969045">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-640_1406969045" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid full-width full-width-devn_customize_page-640_1406969183">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize_page-640_1406969183">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize feature_section15 sysdevn3" id="devn_customize_page-640_1406969183">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-640_1406969183" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid full-width full-width-devn_customize_page-640_1406969274">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize_page-640_1406969274">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize feature_section19 sysdevn4" id="devn_customize_page-640_1406969274">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-640_1406969274" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid full-width full-width-devn_customize_page-640_1406969319">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize_page-640_1406969319">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize feature_section21 sysdevn5" id="devn_customize_page-640_1406969319">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_page-640_1406969319" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid limit-width"><?php devn::sidebarGroup('groups[DS]footer'); ?></div>]]></html>
+</layout>

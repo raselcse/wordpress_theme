@@ -1,0 +1,20 @@
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans|Raleway:100,200,300,400,500,600,700,800,900|');
+
+/***
+*
+*	copyright (c) devn.co
+* This file is generated automatically.
+* Please change the value of options in the backend and do not edit here
+*
+***/
+
+@import url('http://localhost/wordpress/wp-content/themes/fbl/css/colors/lightblue.css');
+.limit-width,.layout-boxed,.layout-boxed #header-one-page{max-width:1170px;}
+body{background-color: #eee;}
+body{background-image: url(http://localhost/wordpress/wp-content/themes/fbl/images/patterns/bg23.png);}
+a{text-decoration: default;}
+a:hover{text-decoration: default;}
+body{font-family:'Open Sans';}
+h3.widget-title,#reply-title,#comments-title{font-family:'Raleway';font-size:22pxpx;}
+#footer-group h3.widget-title{color:#fff;}

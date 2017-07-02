@@ -1,0 +1,1651 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/widget.php:1
+#: hoxa/cgi/options/options.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid " Background body for layout wide and background box for layout boxed"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/color_gradient/field_color_gradient.php:1
+msgid " To:"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid " to preview a font, then select your choice below."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/comments.php:1
+msgid "% Replies"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:491
+msgid "%1$s - %2$s "
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:491
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/templates/default-loop.php:19
+#: hoxa/cgi/shortcodes/templates/single-post.php:17
+msgid "%n comments"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: hoxa/image.php:19
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/editwidget.php:100
+#: hoxa/cgi/options/fields/blog/field_blog.php:78
+#: hoxa/cgi/options/fields/blog/field_blog.php:79
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:259
+msgid "&mdash; Select Page &mdash;"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.lastblog.php:106
+msgid "* Devn - Latest blog"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1895
+msgid ","
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1895
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/templates/default-loop.php:19
+#: hoxa/cgi/shortcodes/templates/single-post.php:17
+msgid "0 comments"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/comments.php:1
+msgid "1 Reply"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/templates/default-loop.php:19
+#: hoxa/cgi/shortcodes/templates/single-post.php:17
+msgid "1 comment"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:11
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<br />Default is:  <strong>%Site Title% - %Tagline%</strong> from General Settings"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<br />If <b>Homepage custom title</b> not set"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:1
+msgid "<i class=\\'icon icon-plus\\'></i> Add Component"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p class=\"description\">Help your site more friendly with Search Engine<br /> After active theme, we will enable all <strong>permalinks</strong> and meta descriptions.</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p class=\"description\">Setting up global style and background</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p class=\"description\">Settings for Single post or Page</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p class=\"description\">general configuration options for theme</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p>This is the HTML which can be displayed before the form, it isnt required, but more info is always better. Anything goes in terms of markup here, any HTML.</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1895
+msgid "<span class=\"%1$s labl\">Tags: </span> %2$s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:535
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/single.php:73
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Article"
+msgstr ""
+
+#. Text in function
+#: hoxa/image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:82
+msgid "<strong>Warning:</strong> these pages should not be the same!"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/blog/field_blog.php:74
+msgid "A <a href=\"%s\">static page</a> (select below)"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "A Section added by hook"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/layouts/field_layouts.php:42
+msgid "ARE YOU SURE?\\n\\nIf you delete this layout may some page will be lost layout and must use its parent layout"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/author.php:40
+#: hoxa/cgi/widgets/widget-author.php:1
+msgid "About %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "About Author"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:60
+msgid "About Us"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "About author box with avatar and description"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Access denied"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Add  tags for the search engines and especially Google"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/multi_text/field_multi_text.php:1
+msgid "Add More"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Add custom tag to header e.g: &lt;meta&gt;, &lt;stylesheet&gt;, &lt;javascript&gt; ..."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/builder.php:84
+msgid "Add row"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Additional Footer"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Additional Headers"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget-author.php:95
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.lastblog.php:102
+msgid "Amount load:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/index.php:26
+#: hoxa/cgi/contents/archive.php:60
+#: hoxa/cgi/contents/author.php:72
+#: hoxa/cgi/contents/tag.php:38
+#: hoxa/cgi/contents/category.php:57
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.xcode.php:71
+msgid "Arbitrary text, HTML, Javascript, CSS and PHP Code"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Archives Title Format"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Article Settings"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/author.php:22
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Author Meta"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Back to all components"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Blog Settings"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:89
+msgid "Blog pages show at most"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/upload/field_upload.php:1
+msgid "Browse"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget-author.php:131
+msgid "By %s"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/editwidget.php:99
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Categories Meta"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.listPost.php:124
+msgid "Categories:"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/category.php:12
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:600
+msgid "Clear all sidebars"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:586
+msgid "Clear all to start with empty"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/main.php:670
+msgid "Click to edit this page by DEVN Page Builder"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:642
+msgid "Click to load layout"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Click to return to the components list"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Click to set this value"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:1249
+msgid "Close"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Color Style"
+msgstr ""
+
+#. Text in echo
+#: hoxa/comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Comments Meta"
+msgstr ""
+
+#. Text in echo
+#: hoxa/comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/widget.php:1
+msgid "Component Elements"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:57
+msgid "Contact Us"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Content"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.content.php:
+msgid "Contents"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:591
+msgid "Copy Layouts"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/wg_list_right.php:
+msgid "Create New Group"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.xcode.php:71
+msgid "Custom Code"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "DEVN - Premium Theme"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "DEVN HOXA"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "DEVN Sample Data one-click importer"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:673
+msgid "DEVN Visual Layouts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/archive.php:13
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Date Meta"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:1248
+#: hoxa/cgi/bin.php:580
+#: hoxa/cgi/bin.php:607
+#: hoxa/cgi/editwidget.php:100
+msgid "Delete"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:605
+msgid "Delete this group"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Dev Mode Info"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.content.php:
+msgid "Display Content corresponding with page"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Display Featured image before of content"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Display box socials button below"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/bin.php:307
+msgid "Don't allow use this layout in other where if private checked"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/widget.php:1
+msgid "Drag this to left area and drop to select a component"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:472
+#: hoxa/cgi/functions.php:501
+#: hoxa/image.php:41
+#: hoxa/cgi/contents/content.php:106
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/bin.php:377
+msgid "Edit this area"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:602
+msgid "Empty"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Export Options"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:54
+msgid "FAQ"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/main.php:502
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Facebook Button"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/content.php:78
+msgid "Featured"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Featured Image"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/generator.php:93
+msgid "Filter by type"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.flickr.php:34
+msgid "Flickr"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:99
+msgid "For each article in a feed, show"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/color_gradient/field_color_gradient.php:1
+msgid "From:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:63
+#: hoxa/cgi/options/fields/blog/field_blog.php:66
+msgid "Front page displays"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/blog/field_blog.php:78
+msgid "Front page: %s"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:101
+msgid "Full text"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1053
+msgid "General  Layout"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/archive.php:22
+msgid "Get new feeds via RSS of this archive"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/category.php:35
+msgid "Get new feeds via RSS of this category"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Getting Started"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:22
+msgid "Go to Back"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Google Button"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "Google Web Fonts directory"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/main.php:518
+msgid "Google+"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:184
+msgid "Groups Created"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:44
+msgid "Hello, my name is Vladimir Anokhin, and I am developer of plugin <b>Shortcodes Ultimate</b>.<br>If you like this plugin, please write a few words about it at the wordpress.org or twitter. It will help other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Help display well on all screen size (smartphone, tablet, laptop, desktop...)"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Here you can copy/download your themes current option settings. Keep this safe as you can use it as a backup should anything go wrong. Or you can use it to restore your settings on this site (or any other site). You also have the handy option to copy the link to yours sites settings. Which you can then use to duplicate on another site"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1718
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Home Meta Description"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Home Meta Keywords"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Home Title Format"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Homepage custom title"
+msgstr ""
+
+#. Text in echo
+#: hoxa/image.php:18
+msgid "Image navigation"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Import"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Import / Export"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Import / Export Options"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Import Options"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Insert Now"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:572
+msgid "Inspector"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.listPost.php:148
+msgid "Items per row:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:139
+msgid "Layouts Created"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/comments.php:1
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "LinkedIn Button"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.lastblog.php:106
+msgid "List latest blog"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.listPost.php:182
+msgid "List posts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "List related posts after the content."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Live preview"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/ajax.php:510
+msgid "Load more"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget.login.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Max Width"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Meta Box"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/archive.php:15
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/templates/works-loop.php:53
+msgid "More Detail"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:536
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: hoxa/image.php:20
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/single.php:74
+msgid "Next Article<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Next/Prev Article Direction"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:48
+msgid "No, thanks"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/index.php:22
+#: hoxa/cgi/contents/archive.php:56
+#: hoxa/cgi/contents/search.php:38
+#: hoxa/cgi/contents/author.php:68
+#: hoxa/cgi/contents/category.php:53
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Number of posts related to show"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:13
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Open Graph Meta"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:398
+#: hoxa/cgi/main.php:463
+msgid "Open Visual Design Layouts to edit"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:398
+#: hoxa/cgi/main.php:463
+msgid "Open in Visual Tool"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:49
+msgid "Or one of the links below, can help.	"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Other Page Meta Description"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Other Page Meta Keywords"
+msgstr ""
+
+#. Text in function
+#: hoxa/image.php:90
+#: hoxa/cgi/contents/content.php:111
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:43
+#: hoxa/cgi/contents/404.php:44
+#: hoxa/cgi/contents/404.php:45
+msgid "Perhaps searching"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1468
+#: hoxa/cgi/functions.php:1444
+#: hoxa/cgi/functions.php:1499
+#: hoxa/cgi/contents/list/post-related.php:60
+#: hoxa/cgi/contents/content.php:73
+#: hoxa/cgi/contents/content.php:103
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:472
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Pinterest Button"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.tabbed.php:19
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/main.php:494
+#: hoxa/cgi/editwidget.php:66
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:534
+msgid "Post navigation"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.listPost.php:161
+msgid "Post type:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/templates/default-loop.php:15
+#: hoxa/cgi/shortcodes/templates/single-post.php:17
+msgid "Posted"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/templates/default-loop.php:22
+#: hoxa/cgi/shortcodes/templates/single-post.php:22
+#: hoxa/cgi/shortcodes/templates/teaser-loop.php:15
+#: hoxa/cgi/shortcodes/templates/list-loop.php:16
+#: hoxa/cgi/shortcodes/templates/services-loop.php:27
+#: hoxa/cgi/shortcodes/templates/team-loop.php:88
+#: hoxa/cgi/shortcodes/templates/works-loop.php:59
+msgid "Posts not found"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/blog/field_blog.php:79
+msgid "Posts page: %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Predefined Color Skins"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/generator.php:240
+msgid "Presets"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:673
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:673
+msgid "Project\\'s Link"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:46
+msgid "Rate plugin"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/templates/services-loop.php:23
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/content.php:111
+msgid "Read more &#187;"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.tabbed.php:20
+msgid "Recent"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/widgets/widget-posts.php:38
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/list/post-related.php:42
+msgid "Related Articles"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Related Posts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Related Query Type"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:50
+msgid "Remind me later"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/multi_text/field_multi_text.php:1
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/upload/field_upload.php:1
+msgid "Remove Upload"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/bin.php:383
+msgid "Remove this area"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:513
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Reset to Defaults"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Responsive Support"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "SEO"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+#: hoxa/cgi/sample.php:54
+msgid "Sample Data"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1252
+msgid "Save"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Save Changes"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:616
+msgid "Save Layout"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/editwidget.php:100
+msgid "Save Widget"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/generator.php:243
+msgid "Save current settings as preset"
+msgstr ""
+
+#. Text in echo
+#: hoxa/searchform.php:7
+#: hoxa/searchform.php:8
+#: hoxa/searchform.php:9
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/search.php:13
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/generator.php:91
+msgid "Search for components"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Select Layout"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/editwidget.php:64
+msgid "Select both the sidebar for this widget and the position of the widget in that sidebar."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:402
+msgid "Select layout for this "
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Separate Character"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Set width of the site in large screen. If the screen smaller, the content will automatically shrink."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Share Box"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/single.php:24
+msgid "Share this Post"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/generator.php:114
+msgid "Shortcode not specified"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/inc/core/vote.php:47
+msgid "Shortcodes Ultimate - must have WordPress plugin #shortcodesultimate"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/editwidget.php:66
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1718
+msgid "Single Post"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Single Post Page Title Format"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/main.php:526
+msgid "Skype"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:15
+msgid "Sorry the Page Could not be Found here."
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/search.php:43
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:673
+msgid "Staff Profiles"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:572
+msgid "Start Inspector"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:587
+msgid "Start over"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:102
+msgid "Summary"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:95
+msgid "Syndication feeds show the most recent"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.tabbed.php:21
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Tags Meta"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/shortcodes/templates/testimonial-loop.php:178
+msgid "Testimonials not found"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "The following code will add to the <head> tag. Useful if you need to add additional scripts such as CSS or JS."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "The following code will add to the footer before the closing </body> tag. Useful if you need to Javascript or tracking code."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "The fonts provided below are free to use custom fonts from the"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:183
+msgid "The group have been created"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:138
+msgid "The layout have been created"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "The symbol in beetwen your Breadcrumbs."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "The title will be displayed in homepage between &lt;title>&lt;/title> tags"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Theme Information 1"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Theme Information 2"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:1718
+#: hoxa/cgi/editwidget.php:100
+msgid "There are no options for this widget."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:400
+#: hoxa/cgi/main.php:465
+msgid "This article will use the layouts created by the 'Visual Design Layout' tool"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/color/validation_color.php:1
+msgid "This field must be a valid color value."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/date/validation_date.php:1
+msgid "This field must be a valid date."
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:32
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:395
+msgid "This page was setted to display as Posts Page."
+msgstr ""
+
+#. Text in echo
+#: hoxa/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.content.php:
+msgid "This widget will display content corresponding with page"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "This will be display as logo at header of every page"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "This will be display at title of browser"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.xcode.php:56
+#: hoxa/cgi/widgets/widget.lastblog.php:99
+#: hoxa/cgi/widgets/widget.listPost.php:117
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget.listPost.php:176
+msgid "Total post:"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/contents/404.php:17
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:47
+msgid "Tweet"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Tweet Button"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/main.php:510
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/widget.php:46
+msgid "Type:"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Upload Favicon"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Upload Logo"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Upload new or from media library to use as your favicon."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Upload new or from media library to use as your logo."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:570
+msgid "View"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/functions.php:607
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/ajax.php:486
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/ajax.php:461
+#: hoxa/cgi/widgets/widget.listPost.php:58
+msgid "View more detail"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:570
+msgid "View this page"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Visual Design Layouts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "Visual Design Layouts grid - Create sidebars and add widgets"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:42
+msgid "Vladimir Anokhin"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/options.php:1
+msgid "WARNING! This will overwrite any existing options, please proceed with caution!"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:400
+#: hoxa/cgi/main.php:465
+msgid "What is this?"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/editwidget.php:53
+msgid "Widget %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "Will not be affected to responsive"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/archive.php:17
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/main.php:468
+msgid "You can not use Visual Layout for this page because you choseed a page-template for this page."
+msgstr ""
+
+#. Text in function
+#: hoxa/comments.php:69
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/no_html/validation_no_html.php:1
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/no_special_chars/validation_no_special_chars.php:1
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/comma_numeric/validation_comma_numeric.php:1
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/numeric/validation_numeric.php:1
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/url/validation_url.php:1
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options/validation/email/validation_email.php:1
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/functions.php:505
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:69
+msgid "Your latest posts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "a Character to separate BlogName and Post title"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/builder.php:88
+msgid "column"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/builder.php:89
+#: hoxa/cgi/builder.php:90
+#: hoxa/cgi/builder.php:91
+#: hoxa/cgi/builder.php:92
+msgid "columns"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "e.g: Google analytics at here"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/options.php:1
+msgid "elements that describe the object in different ways and are represented by meta tags included on the object page"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:96
+msgid "items"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/shortcodes/inc/core/vote.php:49
+msgid "or"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/options/fields/blog/field_blog.php:91
+msgid "posts"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/contents/content.php:111
+msgid "read more &#187;"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/bin.php:613
+msgid "saving"
+msgstr ""
+
+#. Text in echo
+#: hoxa/cgi/widgets/widget-search.php:19
+msgid "to search type and hit enter"
+msgstr ""
+
+#. Text in function
+#: hoxa/cgi/builder.php:86
+msgid "with"
+msgstr ""

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Our works</title>
+	<type>Custom</type>
+	<id>our-works</id>
+	<blockHeight>1130</blockHeight>
+	<height>1479</height>
+	<private>no</private>
+	<update>Fri, 19 Sep 14 03:24:59 +0000</update>
+	<css><![CDATA[.sysdevn0{min-height:100px;width:100% !important;margin-left:0% !important;}.sysdevn1{min-height:520px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups>groups[DS]header,groups[DS]footer,</groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":250,"width":940,"top":0,"left":20,"bottom":250,"right":960},{"id":1,"sid":"devn_customize_our-works_1409650514","customize":"","custLabel":"Code Customization","cfg":{"className":"breadcrumbs page_title2","fullWidth":"2","status":"publish","customCss":""},"height":100,"width":940,"top":270,"left":20,"bottom":370,"right":960},{"id":2,"sid":"devn_customize_our-works_1406690107","customize":"","custLabel":"Code Customization","cfg":{"className":"content_fullwidth lessmar","fullWidth":"0","customCss":"","status":"publish"},"height":520,"width":940,"top":390,"left":20,"bottom":910,"right":960},{"id":3,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0},"height":200,"width":940,"top":930,"left":20,"bottom":1130,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"groups[DS]header","customize":"","custLabel":"","cfg":{"className":"groups[DS]header sidebardevn","fullWidth":0,"css":""},"height":250,"width":940,"top":0,"left":20,"bottom":250,"right":960}]}],[{"width":960,"left":0,"column":[{"id":1,"sid":"devn_customize_our-works_1409650514","customize":"","custLabel":"Code Customization","cfg":{"className":"breadcrumbs page_title2","fullWidth":"2","status":"publish","customCss":""},"height":100,"width":940,"top":270,"left":20,"bottom":370,"right":960}]}],[{"width":960,"left":0,"column":[{"id":2,"sid":"devn_customize_our-works_1406690107","customize":"","custLabel":"Code Customization","cfg":{"className":"content_fullwidth lessmar","fullWidth":"0","customCss":"","status":"publish"},"height":520,"width":940,"top":390,"left":20,"bottom":910,"right":960}]}],[{"width":960,"left":0,"column":[{"id":3,"sid":"groups[DS]footer","customize":"","custLabel":"","cfg":{"className":"groups[DS]footer sidebardevn","fullWidth":0},"height":200,"width":940,"top":930,"left":20,"bottom":1130,"right":960}]}]]]]></real>
+	<html><![CDATA[<div class="container-fluid limit-width container-groups-header"><?php devn::sidebarGroup('groups[DS]header'); ?></div><div class="container-fluid full-width full-width-devn_customize_our-works_1409650514">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize_our-works_1409650514">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize breadcrumbs page_title2 sysdevn0" id="devn_customize_our-works_1409650514">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_our-works_1409650514" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div><div class="container-fluid limit-width">	<div class="rowlevelone row-fluid row wrpestdevn  row-devn_customize_our-works_1406690107">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize content_fullwidth lessmar sysdevn1" id="devn_customize_our-works_1406690107">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize_our-works_1406690107" ))) ); ?>				</div>
+			</div>
+				</div>	</div><?php devn::sidebarGroup('groups[DS]footer'); ?></div>]]></html>
+</layout>

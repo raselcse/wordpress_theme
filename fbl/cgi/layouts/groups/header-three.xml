@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- copyright devn.co (c) All Rights Reserved -->
+<!-- @author: devn -->
+<!-- @email: contact@devn.co -->
+<!-- @package: Layout + Cache -->
+<layout>
+	<title>Header three</title>
+	<type>groups</type>
+	<id>header-three</id>
+	<blockHeight>120</blockHeight>
+	<height>700</height>
+	<private>no</private>
+	<update>Sat, 13 Sep 14 02:56:48 +0000</update>
+	<css><![CDATA[.blkheader-threedevn0{min-height:120px;width:100% !important;margin-left:0% !important;}]]></css>
+	<groups></groups>
+	<customHeader><![CDATA[]]></customHeader>
+	<customFooter><![CDATA[]]></customFooter>
+	<groupid><![CDATA[]]></groupid>
+	<groupclass><![CDATA[]]></groupclass>
+	<vitual><![CDATA[[{"id":0,"sid":"devn_customize__grp_header-three_1409304964","customize":"","custLabel":"Header Style Three","cfg":{"className":"","fullWidth":"2","customCss":"","status":"publish"},"height":120,"width":940,"top":0,"left":20,"bottom":120,"right":960}]]]></vitual>
+	<real><![CDATA[[[{"width":960,"left":0,"column":[{"id":0,"sid":"devn_customize__grp_header-three_1409304964","customize":"","custLabel":"Header Style Three","cfg":{"className":"","fullWidth":"2","customCss":"","status":"publish"},"height":120,"width":940,"top":0,"left":20,"bottom":120,"right":960}]}]]]]></real>
+	<html><![CDATA[</div>
+<div class="devn-group group-header-three " id=""><div class="container-fluid full-width full-width-devn_customize__grp_header-three_1409304964">	<div class="rowlevelone row-fluid row wrpestdevn rowFullWidth row-devn_customize__grp_header-three_1409304964">		<div class="spanlevelone col-md-12">			<div class="widget widget_devn_customize">
+				<div class="execphpwidget devn-code-customize  blkheader-threedevn0" id="devn_customize__grp_header-three_1409304964">
+						<?php devnExt::phpExe( "?>". do_shortcode( devnExt::base64( "decode", get_option("devn_customize__grp_header-three_1409304964" ))) ); ?>				</div>
+			</div>
+				</div>	</div></div>
+</div>
+<div class="container-fluid limit-width">]]></html>
+</layout>
